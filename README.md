@@ -16,11 +16,9 @@
 
 <h5>
 Ao longo do meu curso de pós-graduação em Java Orientado a Objetos, venho enfrentando diversos exercícios desafiadores. Cada tarefa me proporciona a oportunidade de aprofundar meus conhecimentos na linguagem e explorar conceitos como herança, 
-polimorfismo e interfaces. Recentemente, fui desafiado a criar uma hierarquia de classes para uma livraria online, onde aprendi a definir atributos e comportamentos adequados para cada tipo de livro.
-
+polimorfismo e interfaces. Recentemente, fui desafiado a criar uma hierarquia de classes para uma livraria online, onde aprendi a definir atributos e comportamentos adequados para cada tipo de livro.<br/>
 A medida que avanço nos exercícios, tenho a oportunidade de compreender melhor a importância do encapsulamento e do tratamento de exceções para garantir a integridade e segurança do código. A utilização de polimorfismo e interfaces torna o 
-desenvolvimento mais flexível e eficiente.
-
+desenvolvimento mais flexível e eficiente.<br/>
 Embora alguns desafios tenham surgido ao longo do caminho, o apoio dos professores e colegas tem sido fundamental para superá-los. Cada exercício concluído me traz uma sensação de realização e me motiva a continuar aprendendo e crescendo como 
 programador Java. Estou animado para enfrentar os próximos desafios que o curso reserva e ampliar ainda mais meu domínio nessa linguagem orientada a objetos.
 </h5>
