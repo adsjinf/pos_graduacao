@@ -1,4 +1,4 @@
-<h5>Pós-Graduação 04/2023-04/2024 = Ferramentas e Linguagens usadas no curso.
+## Pós-Graduação 04/2023-04/2024 = Ferramentas e Linguagens usadas no curso.
 <div style="sisplay: inline_block">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -14,8 +14,12 @@
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
 </div><br/>
 
-Ao longo do meu curso de pós-graduação em Java Orientado a Objetos, venho enfrentando diversos exercícios desafiadores. Cada tarefa me proporciona a oportunidade de aprofundar meus conhecimentos na linguagem e explorar conceitos como herança, polimorfismo e interfaces. Recentemente, fui desafiado a criar uma hierarquia de classes para uma livraria online, onde aprendi a definir atributos e comportamentos adequados para cada tipo de livro.
+<h5>
+    <p>
+        Ao longo do meu curso de pós-graduação em Java Orientado a Objetos, venho enfrentando diversos exercícios desafiadores. Cada tarefa me proporciona a oportunidade de aprofundar meus conhecimentos na linguagem e explorar conceitos como herança, polimorfismo e interfaces. Recentemente, fui desafiado a criar uma hierarquia de classes para uma livraria online, onde aprendi a definir atributos e comportamentos adequados para cada tipo de livro.
 
-A medida que avanço nos exercícios, tenho a oportunidade de compreender melhor a importância do encapsulamento e do tratamento de exceções para garantir a integridade e segurança do código. A utilização de polimorfismo e interfaces torna o desenvolvimento mais flexível e eficiente.
+        A medida que avanço nos exercícios, tenho a oportunidade de compreender melhor a importância do encapsulamento e do tratamento de exceções para garantir a integridade e segurança do código. A utilização de polimorfismo e interfaces torna o desenvolvimento mais flexível e eficiente.
 
-Embora alguns desafios tenham surgido ao longo do caminho, o apoio dos professores e colegas tem sido fundamental para superá-los. Cada exercício concluído me traz uma sensação de realização e me motiva a continuar aprendendo e crescendo como programador Java. Estou animado para enfrentar os próximos desafios que o curso reserva e ampliar ainda mais meu domínio nessa linguagem orientada a objetos.
+        Embora alguns desafios tenham surgido ao longo do caminho, o apoio dos professores e colegas tem sido fundamental para superá-los. Cada exercício concluído me traz uma sensação de realização e me motiva a continuar aprendendo e crescendo como programador Java. Estou animado para enfrentar os próximos desafios que o curso reserva e ampliar ainda mais meu domínio nessa linguagem orientada a objetos.
+    </p>
+</h5>
