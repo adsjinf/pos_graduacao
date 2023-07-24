@@ -1,4 +1,4 @@
-<h5>Desenvolvimento de sites Front-End, Back-End  e App para Celulares. Em Curso
+<h5>Pós-Graduação 04/2023-04/2024 = Ferramentas e Linguagens usadas no curso.
 <div style="sisplay: inline_block">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
